@@ -110,7 +110,7 @@ GEM
       net-smtp
     marcel (1.0.4)
     matrix (0.4.2)
-    method_source (1.0.0)
+    method_source (1.1.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.7)
     minitest (5.15.0)
@@ -132,7 +132,7 @@ GEM
     parallel (1.21.0)
     parser (3.0.3.2)
       ast (~> 2.4.1)
-    pry (0.14.1)
+    pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     pry-stack_explorer (0.6.1)
