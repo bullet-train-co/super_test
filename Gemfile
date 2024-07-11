@@ -6,5 +6,6 @@ gem "sqlite3"
 gem "sprockets-rails"
 gem "capybara", "~> 3.39.2"
 gem "i18n", "~> 1.14.5"
+gem "rubocop", "~> 1.64.1"
 # Specify your gem's dependencies in magic_test.gemspec
 gemspec
