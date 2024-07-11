@@ -237,12 +237,9 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (>= 2.0)
-  capybara (~> 3.39.2)
-  i18n (~> 1.14.5)
   magic_test!
   minitest (>= 5.0)
   rake (>= 13.0)
-  rubocop (~> 1.64.1)
   sprockets-rails
   sqlite3
   standard
