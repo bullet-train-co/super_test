@@ -80,7 +80,7 @@ GEM
     ast (2.4.2)
     binding_of_caller (1.0.0)
       debug_inspector (>= 0.0.1)
-    builder (3.2.4)
+    builder (3.3.0)
     capybara (3.39.2)
       addressable
       matrix
