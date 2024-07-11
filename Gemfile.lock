@@ -95,7 +95,7 @@ GEM
     crass (1.0.6)
     date (3.3.4)
     debug_inspector (1.1.0)
-    erubi (1.10.0)
+    erubi (1.13.0)
     globalid (1.1.0)
       activesupport (>= 5.0)
     i18n (1.14.5)
